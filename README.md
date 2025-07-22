@@ -44,7 +44,7 @@ src/
 ## 🔧 How to Run
 ```bash
 # 1. Clone this repo
-git clone https://github.com/username/traffic-lalin-pos-app.git
+git clone https://github.com/feriyalbinyahya/FE_Test
 cd traffic-lalin-pos-app
 
 # 2. Install dependencies
