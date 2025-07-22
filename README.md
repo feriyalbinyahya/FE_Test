@@ -3,7 +3,7 @@
 A web application for managing **toll gate master data** and **daily traffic reports**, built using **React.js + Material UI (MUI)**. This app includes authentication, master data management, dynamic reporting, and data visualization with charts.
 
 
-## 🚀 Main Features
+## ⚙️ Main Features
 
 - ✅ **Login & Page Protection** (Private Route)
 - ✅ **Dashboard Overview** with Traffic Charts per Method & Shift (Recharts)
@@ -41,7 +41,7 @@ src/
 └── App.jsx           # Main entry and route setup
 ```
 
-## 🚀 How to Run
+## 🔧 How to Run
 ```bash
 # 1. Clone this repo
 git clone https://github.com/username/traffic-lalin-pos-app.git
