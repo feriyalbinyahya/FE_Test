@@ -5,12 +5,12 @@ A web application for managing **toll gate master data** and **daily traffic rep
 
 ## ⚙️ Main Features
 
-- ✅ **Login & Page Protection** (Private Route)
-- ✅ **Dashboard Overview** with Traffic Charts per Method & Shift (Recharts)
-- ✅ **Daily Traffic Reports** with Filtering, Sorting, and Pagination
-- ✅ **Toll Gate Master Data Management** (Add / Edit / Delete)
-- ✅ **Responsive Layout, Dynamic Modal Forms** using MUI Grid & Flexbox
-- ✅ **Date Filtering** using Day.js and MUI Date Picker
+- **Login & Page Protection** (Private Route)
+- **Dashboard Overview** with Traffic Charts per Method & Shift (Recharts)
+- **Daily Traffic Reports** with Filtering, Sorting, and Pagination
+- **Toll Gate Master Data Management** (Add / Edit / Delete)
+- **Responsive Layout, Dynamic Modal Forms** using MUI Grid & Flexbox
+- **Date Filtering** using Day.js and MUI Date Picker
 
 ---
 
